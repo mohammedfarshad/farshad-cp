@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+nav{
+    padding-left: 5cm;
+}
+a{
+    margin-left: 30px;
+}
+button{
+    border-radius: 2em;
+}
+div{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    
+}
